@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="149fddd5-5449-4bef-9708-20894548c139" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/JavaCore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work1/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work1/Work1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work2/task1/task1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work2/task2/task2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work2/task3/task3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Work4/src/main/java/org/example/Buyer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1/Task1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1/src/regular/PigeonholeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task1/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/src/regular/CaesarCipher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task2/task2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3/src/regular/ArrayShift.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task3/task3.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2TBvPuUW9e5MpeVGmEC9r47Y5ZE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/first/Desktop/JavaCore/Work5",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="149fddd5-5449-4bef-9708-20894548c139" name="Changes" comment="" />
+      <created>1690529267316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690529267316</updated>
+      <workItem from="1690529268392" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
